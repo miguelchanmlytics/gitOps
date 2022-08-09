@@ -8,4 +8,9 @@
 ## git flow
 * PR to sit
 
+![prtosit](gitops-B.drawio.png)
+
+* PR to master
+
 ![prtosit](gitops-A.drawio.png)
+
