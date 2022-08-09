@@ -16,4 +16,7 @@
 
 ## Meeting Notes
 * 請 DevOps 建立新 namespace 
-* image tag 會須避免使用 latest 
+* 無法自動部署的事項：
+  * upgrade image with latest tag, restart deployment
+  * delete resource
+  * change secret content, restart deployment
